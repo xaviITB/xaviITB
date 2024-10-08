@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on teaching
-- 🌱 I’m currently learning git course
 
 ## Skills & Technologies
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
